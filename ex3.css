@@ -45,10 +45,10 @@
   font-weight: 500;
 }
 
-.post-2 {
+.p-2 {
   grid-column: span 2;
 }
 
-.post-3 {
+.p-3 {
   grid-column: span 2;
 }
